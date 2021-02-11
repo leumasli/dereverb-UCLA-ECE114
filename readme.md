@@ -2,11 +2,7 @@
 
 This is a class project for UCLA ECE 114.
 
-We trained two CNNs on 
-
-[Google Speech Commands Dataset]: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
-
- for speech recognition. We trained the first model using signal in the time domain and the other using spectrograms in the frequency domain. In the test time, reverberation is introduced in the test samples, and the goal for this project is to preprocess the test samples to reduce reverberation and to improve accuracy. 
+We trained two CNNs on [Google Speech Commands Dataset](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html) for speech recognition. We trained the first model using signal in the time domain and the other using spectrograms in the frequency domain. In the test time, reverberation is introduced in the test samples, and the goal for this project is to preprocess the test samples to reduce reverberation and to improve accuracy. 
 
 We introduced the following 10 methods in this project:
 
