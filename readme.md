@@ -13,5 +13,3 @@ We introduced the following 10 methods in this project:
 | 3. Spectral centroid                   | 3.  Echo cancellation filter     |
 | 4. Spectral contrast                   | 4. STFT consonant amplification  |
 | 5. Poly features                       | 5. Filter complex                |
-
-*We preprocessed the dataset and added the lists in* `/data`. *To replicate our results, put the lists in the same directroy as the dataset*
