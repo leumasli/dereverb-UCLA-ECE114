@@ -14,4 +14,4 @@ We introduced the following 10 methods in this project:
 | 4. Spectral contrast                   | 4. STFT consonant amplification  |
 | 5. Poly features                       | 5. Filter complex                |
 
-*note: we preprocessed the dataset and added the list in /data. To replicate our results, put the lists in the same directroy as the dataset*
+*We preprocessed the dataset and added the list in /data. To replicate our results, put the lists in the same directroy as the dataset*
